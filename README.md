@@ -6,7 +6,7 @@ Olá, meu nome é João Pedro um **desenvoldedor front-end**, tenho 17 anos e te
 Tecnologias que eu utilizo.
 
 **Front-end:**
-NextJS, ReactJS, TailwindCSS, Vite, HTML, CSS, Redux, Typescript, Javascript
+HTML, CSS, e Javascript
 
 **Ferramentas:**
-Figma, Git, Visual Studio Code
+Git, Visual Studio Code
